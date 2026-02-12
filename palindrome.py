@@ -9,3 +9,4 @@ if rev==temp:
     print("palindrome")
 else:
     print("not palindrome")
+print("hello swapnil")
